@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="634.14" height="305.647" viewBox="0 0 634.14 305.647">
+  <g id="CAD_library" data-name="CAD library" transform="translate(-259.926 -623.353)">
+    <g id="Implant" transform="translate(473.781 735.544)">
+      <path id="Path_1" data-name="Path 1" d="M90.309,62.468l-7.057,7.09v31.154H85.6v5.8l-2.352,2.363v5.371h3.459v5.371l-3.459,3.653v5.157h3.459v4.512L85.6,136.593v3.223h2.214v6.016l-1.107,1.289v2.793l3.6,2.578v6.446l-2.491,1.5v4.082l3.874,2.363v5.8l-2.629,3.438,1.245,3.867h3.736v3.867l9.133,8.594h9.133l9.271-8.594v-3.867H124.9l1.522-3.867-2.767-3.438v-5.8l4.151-2.363v-4.082h-2.214v-7.95l3.044-2.578v-2.793l-1.522-2.793v-3.223l3.736-3.008v-3.223l-1.522-1.934v-4.512l2.906-3.008v-3.653l-2.906-2.149v-5.371l2.906-2.363v-3.008l-2.214-2.363v-5.8h2.214V69.558l-6.642-7.09Z" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Line_1" data-name="Line 1" x2="48.865" transform="translate(83.404 70.086)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Line_2" data-name="Line 2" x2="48.865" transform="translate(83.404 75.777)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Line_3" data-name="Line 3" y1="4.742" x2="48.865" transform="translate(83.404 90.952)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Line_4" data-name="Line 4" y1="4.742" x2="48.865" transform="translate(83.404 88.581)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Line_5" data-name="Line 5" y1="4.742" x2="48.865" transform="translate(83.404 86.209)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Line_6" data-name="Line 6" y1="4.742" x2="48.865" transform="translate(83.404 83.838)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Line_7" data-name="Line 7" y1="4.742" x2="48.865" transform="translate(83.252 81.467)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Line_8" data-name="Line 8" y1="4.742" x2="48.865" transform="translate(83.404 79.096)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Line_9" data-name="Line 9" y1="4.742" x2="48.865" transform="translate(83.404 76.725)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Line_10" data-name="Line 10" y1="3.32" x2="32.373" transform="translate(83.404 75.777)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Line_11" data-name="Line 11" y1="10.433" x2="46.422" transform="translate(85.847 95.694)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Line_12" data-name="Line 12" y1="12.33" x2="46.422" transform="translate(83.404 101.384)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Line_13" data-name="Line 13" y1="11.381" x2="42.757" transform="translate(87.069 108.024)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Line_14" data-name="Line 14" y1="12.799" x2="42.849" transform="translate(86.366 114.663)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Line_15" data-name="Line 15" y1="13.508" x2="42.803" transform="translate(86.412 120.353)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Line_16" data-name="Line 16" y1="11.372" x2="41.582" transform="translate(87.633 128.889)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Line_17" data-name="Line 17" y1="12.32" x2="41.582" transform="translate(87.633 133.632)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Line_18" data-name="Line 18" y1="11.132" x2="36.13" transform="translate(90.641 141.219)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Line_19" data-name="Line 19" y1="13.738" x2="36.741" transform="translate(90.641 145.013)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Line_20" data-name="Line 20" y1="11.841" x2="30.892" transform="translate(90.993 155.446)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Line_21" data-name="Line 21" y1="9.7" x2="27.227" transform="translate(90.993 163.982)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Line_22" data-name="Line 22" y1="8.507" x2="20.86" transform="translate(93.695 171.569)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Line_23" data-name="Line 23" y1="2.357" x2="15.973" transform="translate(93.695 182.002)" fill="none" stroke="#707070" stroke-width="2"/>
+      <path id="Path_2" data-name="Path 2" d="M142.7,157.273l-3.874,2.149L126.5,187.353v4.082l12.328-2.793" transform="translate(-16.831 -4.888)" fill="none" stroke="#707070" stroke-width="2"/>
+    </g>
+    <g id="Abutment_1" data-name="Abutment 1" transform="translate(201.992 580.136)">
+      <path id="Path_4" data-name="Path 4" d="M396.845,89.814H367.082l-1.472,25.157a29.363,29.363,0,0,1-.818,7.186,6.4,6.4,0,0,1-2.617,3.67v2.293a7.6,7.6,0,0,1,4.906,1.223c2.126,1.567,3.6,5.046,3.6,5.046l1.962,19.877h16.844l2.126-19.877s1.022-3.478,3.107-5.046a8.385,8.385,0,0,1,5.233-1.223V115.888s-1.513-.688-2.29-3.364a35.342,35.342,0,0,1-.818-7.339Z" fill="none" stroke="#707070" stroke-width="2"/>
+      <path id="Path_5" data-name="Path 5" d="M362.176,137.692a45.135,45.135,0,0,0,12.265-2.293c7.277-2.293,7.931-5.466,14.391-7.645s10.793,0,10.793,0" transform="translate(0 -12.018)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Line_28" data-name="Line 28" x2="37.539" transform="translate(362.41 128.074)" fill="none" stroke="#707070" stroke-width="2"/>
+    </g>
+    <g id="Tooth" transform="translate(12.886)">
+      <path id="Path_15" data-name="Path 15" d="M512.277,777.274c-2.72,13.4-6.255,25.651-24.475,26.8s-34.062,6.7-39.161-13.017-.68-35.509,4.9-55.513S472.029,721,472.029,721s9.656,6.73,19.718,9.314,16.655-.714,20.531,13.547S515,763.875,512.277,777.274Z" transform="translate(89 -90)" fill="none" stroke="#707070" stroke-width="2"/>
+      <path id="Path_16" data-name="Path 16" d="M479.735,721.181s11.528,3.71,19.142,2.061,9.425.294,14.136,5.6,1.925,7.171,6.479,11.191" transform="translate(80.986 -90)" fill="none" stroke="#707070" stroke-width="2"/>
+    </g>
+    <path id="Path_18" data-name="Path 18" d="M550.456,781.264s-1.181-31.405-6.656-46.834-15.243-14.881-15.243-14.881-16.175-4.479-30.36-4.479a85.652,85.652,0,0,0-26.378,4.479s-17.793,20.9-22.4,41.807c-4.475,20.318-3.719,29.111,7.614,39.9.123.119-1.474-.31-1.133,0,12.194,11.074,18.031,8.126,42.293,4.393s52.258-17.419,52.258-17.419-22.718,12.351-44.261,17.419-27.476,8.455-41.909,2.856-19.84-20.276-19.84-20.276L411.5,795.2s-23.378.581-25.146-15.915.856-39.336,11.327-52.556,12.678-12.281,31.035-14.272,41,7.093,41,7.093-16.434,20.958-20.3,37.308-1.9,28.091-1.9,28.091-29.968,16.1-44.4,10.252-18.4-4.479-19.27-23.392,12.443-48.775,12.443-48.775-19.286-18.228-31.853-38.572-8.585-36.954-27.374-49.272-39.318-16.424-47.779,0-28.369,185.144-28.369,185.144" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_19" data-name="Path 19" d="M612.7,789.473s24.884,22.974,34.535,26.191,22.354,13.419,30.305-4.4,6.133-61.844,6.133-61.844-11.351-20.639-21.5-23.854-8.048,5.028-19.091,8.636S622.346,728.585,618,740s-5.3,49.476-5.3,49.476,15.682,18.976,31.318,26.191,22.914,9.506,31.1,1.206,8.557-23.863,8.557-23.863,23.118,32.247,36.812,32.689,17.964-30.922,17.964-30.922-3.654-61.8-16.686-73.143-35.44,27.79-35.44,27.79l-1.69,46.069s21.515,30.26,35.852,30.964,21.5-28.147,21.5-28.147L732.266,740s1.031-9.939,9.718-14.43,17.817-9.243,27.977,1.359,11.319,39.945,11.319,39.945l1.345,31.436s.442,19.437-9.718,20.026-30.922-17.67-30.922-17.67,19.211,18.351,30.181,18.351,11.93-19.7,11.93-19.7,13.154,16.622,24.74,15.951,9.129-22.255,9.129-22.255l-5.89-56.543s-1.481-5.08-8.141-6.773-11.468-2.577-18.5,0S778.064,740,778.064,740s1.23,11.707,3.217,26.874,2.815,33.792,2.815,33.792,15.61,16.07,24.74,14.6,10.246-21.313,10.246-21.313,15.728,19.982,22.443,17.317,4.417-27.977,4.417-27.977l-10.9-57.721s-.445-5.029-6.447-5.913-11.922-1.64-17.56,2.379c-1.408,1-1.659,4.948-2.2,6.2-2.315,5.328,2.189-1.928,4.75,14.343s5.5,52.2,5.5,52.2,15.065,18.7,22.443,16.492S846.9,784.7,846.9,784.7s17.617,16.906,23.49,15.964-4.735-59.013-13.57-73.738-21.769-4.893-21.769-4.893l11.85,63.906s15.616,15.65,22.52,15.65,2.413-19.168,2.413-19.168l21.307,54.024" fill="none" stroke="#707070" stroke-width="2"/>
+  </g>
+</svg>
