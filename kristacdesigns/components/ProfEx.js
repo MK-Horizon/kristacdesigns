@@ -3,9 +3,63 @@ import { Container, Card, Col, Row, Jumbotron } from "react-bootstrap"
 export default function ProfExp(){
  return (
     <Container>
-        <Row className="m-auto align-self-center">
-            <a id="medical_devices"><strong>Medical Device Projects</strong></a>
-            <div class="card align-items-center border-0"><strong>Glidewell Laboratories</strong> Design Engineer 2013 – 2016<p/></div>
+        <Row className="m-auto align-self-center p-4">
+            <a className="p-2" id="about-me"><strong></strong></a>
+            <div class="card align-items-center border-0 p-4"><strong>About Me</strong> </div>
+            <div class='card align-items-center border-0 '></div>
+            <div Class='card  border-0'><strong> </strong> <br/>
+            
+            Welcome to my personal website! My name is Krista Camero, 
+            and I am a mechanical engineer with a strong background in design, 
+            research and development, and project management within the medical device industry.
+            What truly drives me is the pursuit of innovation and sustainability. 
+            While my expertise lies in the medical device industry, I am eager to explore career opportunities 
+            in industries that share my passion for innovation, responsible resource usage, and sustainable 
+            manufacturing practices. I believe that as engineers, we have a unique opportunity to shape a better 
+            future by developing groundbreaking solutions that address pressing global challenges.
+            One of my core areas of expertise lies in CAD modeling. With 7 years of experience, I possess a comprehensive skill set in creating precise and detailed 3D models. Using advanced software tools, I am able to bring my ideas to life, ensuring accuracy and efficiency in the design process. 
+            Designing and creating are not just professional endeavors for me, they are a true passion. In my spare time, I immerse myself in personal projects, exploring new ideas and pushing the boundaries of my creativity. I have set up a dedicated workspace at home, complete with a 3D printer. This allows me to bring my concepts to reality and continuously refine my skills as a designer and maker.
+            Thank you for visiting my website. I invite you to explore my portfolio, where you can discover examples of my work and projects. 
+
+            <a href="http://www.linkedin.com/in/kristacamero">LinkedIn</a>
+
+                <p/> 
+            </div>
+            <div className="contianer p-3"> 
+            <a  id="medical_devices"><strong>Medical Device Projects</strong></a>
+            </div>
+            <div class="card align-items-center border-0 p-2"><strong>Applied Medical</strong> R&D Design Engineering Intern 2012 – 2016<p/></div>
+            <div class='card align-items-center border-0 p-2'><img src="/images/Thermoforming.svg"></img></div>
+            <div Class='card  border-0 p-4'><strong>Thermoforming Testing Apparatus:</strong> <br/>
+            Designed a mold for a developing product. 
+            Created and developed a thermoforming experimental 
+            apparatus to test the material in various conditions. 
+                
+            </div>
+
+            <div class='card align-items-center border-0 p-4'><img src="/images/Injection_Mold.svg"></img></div>
+            <div Class='card  border-0 p-2'><strong>Injection Mold Project:</strong> <br/>
+        
+
+            Designed a mold for a minimally invasive surgical tool for high volume production. 
+            Collaborated with the manufacturing team to create the technical drawing of the mold and make prototypes. 
+
+                
+            </div>
+
+            <div class='card align-items-center border-0 p-2'><img src="/images/Enclosure.svg"></img></div>
+            <div Class='card  border-0 p-2'><strong>Surgical Testing Apparatus:</strong> <br/>
+            
+
+            Designed and constructed a hermetically sealed enclosure for testing minimally
+            invasive surgical devices. Enclosure designed with materials and features to 
+            mimic the actual use environment. Created the CAD models in Solidworks, 
+            made technical drawings for each component and assembly, and selected the hardware and materials.
+ 
+
+            </div>
+            
+            <div class="card align-items-center border-0 p-5"><strong>Glidewell Laboratories</strong> Design Engineer 2013 – 2016<p/></div>
             <div class='card align-items-center border-0 '><img src="/images/Implant Project.svg"></img></div>
             <div Class='card  border-0'><p/><strong>Implant System:</strong> <br/>
             <p/>

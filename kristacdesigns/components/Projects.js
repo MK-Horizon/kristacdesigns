@@ -8,7 +8,6 @@ export default function Projects() {
         <div class="jumbotron jumbotron-fluid p-3">
           <div class="container">
               <a id="fusion_projects"><strong>Fusion 360 Projects</strong></a>
-   
           </div>
       </div>
       
@@ -16,7 +15,7 @@ export default function Projects() {
           <img src="/images/1.MK-Horizon_1.PNG">
           </img>
        </div>
-       <ShowMore maxHeight={100}>
+  
        <div class="container p-3">
           <img src="/images/1.MK-Horizon_2.JPG">
           </img>
@@ -98,7 +97,7 @@ export default function Projects() {
           <img src="/images/10.Stamp press.png">
           </img>
        </div>
-       </ShowMore>
+  
       </div>
     )
   }
