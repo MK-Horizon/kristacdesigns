@@ -45,11 +45,12 @@ export function Skills(){
         <ListGroup>
                 <div class="list-group list-group-flush">
         <ListGroup.Item><strong>Certifications:</strong></ListGroup.Item>        
-        <ListGroup.Item>Six Sigma: Certified Lean Six Sigma Green Belt | Accredited Udemy - November 2022</ListGroup.Item>
-        <ListGroup.Item>Medical Device Process Validation. ISO 13485. IQ OQ PQ Udemy - November 2022</ListGroup.Item>
-        <ListGroup.Item>Injection Mold Part Design Udemy - June 2023 </ListGroup.Item>
-        <ListGroup.Item>Certificate Course in Clinical ResearchUdemy - June 2023 </ListGroup.Item>
-        <ListGroup.Item>Medical Device Regulations Udemy - June 2023</ListGroup.Item>
+        <ListGroup.Item>Six Sigma: Certified Lean Six Sigma Green Belt | Accredited - Udemy - November 2022</ListGroup.Item>
+        <ListGroup.Item>Medical Device Process Validation. ISO 13485. IQ OQ PQ - Udemy - November 2022</ListGroup.Item>
+        <ListGroup.Item>Injection Mold Part Design - Udemy - June 2023 </ListGroup.Item>
+        <ListGroup.Item>Certificate Course in Clinical Research - Udemy - June 2023 </ListGroup.Item>
+        <ListGroup.Item>Medical Device Regulations - Udemy - June 2023</ListGroup.Item>
+        <ListGroup.Item>The Complete Prompt Engineering for AI Bootcamp - Udemy- July 2023</ListGroup.Item>
         </div>
         </ListGroup>
 <ListGroup>
