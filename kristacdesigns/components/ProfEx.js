@@ -28,7 +28,7 @@ export default function ProfExp(){
             <div className="contianer p-3"> 
             <a  id="medical_devices"><strong>Medical Device Projects</strong></a>
             </div>
-            <div class="card align-items-center border-0 p-2"><strong>Applied Medical</strong> R&D Design Engineering Intern 2012 – 2016<p/></div>
+            <div class="card align-items-center border-0 p-2"><strong>Applied Medical</strong> R&D Design Engineering Intern 2012<p/></div>
             <div class='card align-items-center border-0 p-2'><img src="/images/Thermoforming.svg"></img></div>
             <div Class='card  border-0 p-4'><strong>Thermoforming Testing Apparatus:</strong> <br/>
             Designed a mold for a developing product. 
